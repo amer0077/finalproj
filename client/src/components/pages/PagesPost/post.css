@@ -1,0 +1,22 @@
+
+
+
+span img {
+  width: 290px; height: 290px; 
+  border-radius: 7px 7px  0px 0px;
+}
+
+span {
+  
+  background-color: rgba(255, 255, 255, 0.479);
+border-radius: 7px 7px  7px 7px;
+  height: 450px;
+}
+
+.abc {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+     }
