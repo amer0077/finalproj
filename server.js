@@ -9,7 +9,7 @@ connectDB();
 
 app.use(express.json());
 
-
+const path = require('path');
 app.use('/api/user', require('./routers/user'));
 app.use('/api/post', require('./routers/post'));
 
